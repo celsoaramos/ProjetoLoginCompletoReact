@@ -17,7 +17,7 @@ api.interceptors.response.use(
     if (error.response.status === 401) {
       api.defaults.headers.authorization = ''
       destroyCookie(null, 'nextauth.token')
-      //window.location.reload()
+      window.location.reload()
     }
     // Se ocorrer qualquer outro tipo de erro, retorna o erro original
     return Promise.reject(error)
