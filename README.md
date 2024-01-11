@@ -35,4 +35,3 @@ Código aberto para qualquer pessoa clonar e utilizar como base em seus projetos
 **Observação:** Seria interessante ter backend para realizar as chamadas e testar o fluxo da aplicação.
 Você pode remover a chamada ao backend no login para fazer o bypass e acessar como se estivesse logado.
 
-**Observação:** A ideia é ter o hamburger para reduzir o menu (aberto / fechado). A estrutura está praticamente pronta.
