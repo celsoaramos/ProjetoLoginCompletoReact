@@ -1,6 +1,6 @@
 # Projeto Login Completo React Com Dashboard
 
-- Projeto criado para estudo e em progresso.
+- Projeto criado para colocar em prática todo aprendizado.
 - Página de login completa (cadastrar, recuperar senha e login).
 - Dashboard pronto
 
