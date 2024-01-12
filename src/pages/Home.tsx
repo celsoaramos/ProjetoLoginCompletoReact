@@ -1,4 +1,4 @@
-import Breadcrumb from '@/components/AtomicDesign/Molecules/Breadcrumb'
+import Breadcrumb from '@/components/Molecules/Breadcrumb'
 import React from 'react'
 
 const Home = () => {

@@ -1,8 +1,8 @@
 import { useAuthContext } from '@/contexts/AuthContext'
 import Head from 'next/head'
-import LoginEnvironment from '@/components/AtomicDesign/Organisms/LoginEnvironment'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Layout from '@/components/AtomicDesign/Organisms/Layout'
+import LoginEnvironment from '@/components/Organisms/LoginEnvironment'
+import { BrowserRouter } from 'react-router-dom'
+import Layout from '@/components/Organisms/Layout'
 
 export default function Home() {
   1

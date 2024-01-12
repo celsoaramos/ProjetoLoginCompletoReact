@@ -19,6 +19,7 @@ const Layout = () => {
             <Route path="/paciente" element={<Pacient />} />
           </Routes>
         </div>
+        <footer className='bg-green' />
       </main>
     </div>
   )
