@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom'
 import Layout from '@/components/Organisms/Layout'
 
 export default function Home() {
-  1
+
   const {
     loggedIn,
   } = useAuthContext()
